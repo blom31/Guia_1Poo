@@ -14,6 +14,7 @@ import java.util.Scanner;
  */
 public class Juego {
 
+    
     private String juga1, juga2;
     private int num;
 
